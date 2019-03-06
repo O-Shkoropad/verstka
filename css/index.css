@@ -1,11 +1,11 @@
-body{
+ body{
     font-family:serif;
     padding:0px;
     margin:0px;
    }
-header{
+ header{
     background: url(../img/logo.png) no-repeat center top / cover;
-margin-bottom:260px;
+padding-bottom:260px;
 }
 .container{
     width:930px;
@@ -22,7 +22,7 @@ margin-bottom:260px;
       margin-left:365px;
   }
 .titles_first{
-    color:black;
+    color:white;
     font-size:49px;
     text-transform:uppercase;
     text-align:center;
@@ -41,13 +41,13 @@ h1{
   }
  .box{
      width:330px;
-     
+     background:white;
      height:334px;
      margin-left:285px;
      margin-top:-60px;
      border-style:solid;
      border-color:black;
-     border-width:5px;
+     border-width:1px;
  } 
 .button{
      background:#227dd3;
